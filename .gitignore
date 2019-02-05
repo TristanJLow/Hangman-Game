@@ -1,0 +1,6 @@
+client
+server
+info.plist
+*.
+*.o
+.vscode/
